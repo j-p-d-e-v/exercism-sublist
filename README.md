@@ -21,3 +21,5 @@ Given any two lists A and B, determine if:
 - If A = [1, 2, 3, 4, 5] and B = [2, 3, 4], then A is a superlist of B
 - If A = [1, 2, 4] and B = [1, 2, 3, 4, 5], then A and B are unequal
 - If A = [1, 2, 3] and B = [1, 3, 2], then A and B are unequal
+
+Reference: https://exercism.org/tracks/rust/exercises/sublist
